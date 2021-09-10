@@ -7,5 +7,5 @@ yarn
 yarn dev
 ```
 
-Normal run: [http://localhost:3000](http://localhost:3000)
-Throw run: [http://localhost:3000/?throw=1](http://localhost:3000/?throw=1)
+- Normal run: [http://localhost:3000](http://localhost:3000)
+- Throw run: [http://localhost:3000/?throw=1](http://localhost:3000/?throw=1)
